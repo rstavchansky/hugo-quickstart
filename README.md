@@ -1,1 +1,1 @@
-This is the readme for this Hugo quick start test site.
+This is the readme for this Hugo quick start test site. Sweet! So cool!
